@@ -1,3 +1,29 @@
+# Pixabay Clone
+
+## 📌 Description
+A responsive image search application built using React.js that utilizes the Pixabay API to fetch and display images based on user queries.
+
+## 🛠 Tech Stack
+- React.js
+- Redux Toolkit
+- React Router DOM
+- Pixabay API
+
+## 🚀 Features
+- Image search functionality
+- Dynamic routing to view image details
+- Redux-powered state management
+- Responsive design for all devices
+
+## 🧪 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/sidhiray/Pixabay_clone.git
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
